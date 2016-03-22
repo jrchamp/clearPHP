@@ -10,7 +10,7 @@ Lead Author
 
 Contributors
 ------------
-* Derick Rethans (https://github.com/kitsched)
+* Derick Rethans (https://github.com/derickr)
 * fneuneu (https://github.com/Fneufneu)
 * Gary Jones (https://github.com/GaryJones)
 * Guillaume Deviart (https://github.com/GuillaumeDievart)
