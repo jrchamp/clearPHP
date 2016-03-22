@@ -32,7 +32,7 @@ Acknowledgements
 ClearPHP was originally written by Damien Seguy. The following people have contributed to this project:
 
 <!-- contributors -->
-* Derick Rethans (https://github.com/kitsched)
+* Derick Rethans (https://github.com/derickr)
 * fneuneu (https://github.com/Fneufneu)
 * Gary Jones (https://github.com/GaryJones)
 * Guillaume Deviart (https://github.com/GuillaumeDievart)
@@ -42,4 +42,5 @@ ClearPHP was originally written by Damien Seguy. The following people have contr
 * Victor Stanciu (https://github.com/victorstanciu)
 * Juliette Reinders Folmer (https://github.com/jrfnl)
 * Aleksandr Yuriev (https://github.com/aleksandrzen)
+
 <!-- contributors -->
